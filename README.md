@@ -8,12 +8,12 @@ mechanize
 
 ## Installation
 
-  easy_install mechanize
-  vim test_configs.py.template
-  mv test_configs.py.template test_configs.py
+    easy_install mechanize
+    vim test_configs.py.template
+    mv test_configs.py.template test_configs.py
 
 ## Usage
 
-  title_grabber.py [--unread]
+    title_grabber.py [--unread]
 
 
