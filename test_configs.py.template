@@ -1,0 +1,6 @@
+# Rename this file to test_configs.py and add your RIL credentials.
+
+RIL_APIKEY = 'key'
+RIL_USERNAME = 'user'
+RIL_PASSWORD = 'pwd'
+
